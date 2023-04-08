@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="680348f0-6289-44c4-9d28-289ea2280fc7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/statistic/StatisticsServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/statistic/StatisticsServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_directory_selection": "C:/Netology/IdeaProjects/ru.netology/task_8_DZ_First/src/test/java"
+    "last_directory_selection": "C:/Netology/IdeaProjects/ru.netology/task_8_DZ_First/src/test/java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RunAnythingCache">
@@ -52,7 +55,7 @@
       <command value="mvn clean verify" />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.StatisticsServiceTest.findMaxLast">
     <configuration name="StatisticsServiceTest.findMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="task_8" />
       <extension name="coverage">
@@ -64,6 +67,22 @@
       <option name="PACKAGE_NAME" value="ru.netology.statistic" />
       <option name="MAIN_CLASS_NAME" value="ru.netology.statistic.StatisticsServiceTest" />
       <option name="METHOD_NAME" value="findMax" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatisticsServiceTest.findMaxLast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="task_8_DZ_First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.statistic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.statistic" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.statistic.StatisticsServiceTest" />
+      <option name="METHOD_NAME" value="findMaxLast" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StatisticsServiceTest.findMaxLast" />
         <item itemvalue="JUnit.StatisticsServiceTest.findMax" />
       </list>
     </recent_temporary>
